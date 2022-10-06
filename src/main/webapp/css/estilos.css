@@ -1,0 +1,91 @@
+@charset "ISO-8859-1";
+
+*{
+	
+	margin: 0px;
+	padding: 0px;
+}
+
+.body{
+	
+	
+	width:90%;
+    text-align: center;
+	margin:0.5em;
+	background: white;
+	
+}
+
+.img logo{
+	float:right;
+    padding: 5px;
+    border-radius: 2px;
+  
+}
+
+.div titulo{
+	
+	
+	text-align: center;
+	float:rigth;
+}
+
+.header{
+	
+	height:20%;
+	border-radius:0.5em;
+	margin:0.5em;
+	background: purple;
+	text-align: center;
+	position: absolute;
+	
+   
+}
+
+
+
+.nav{
+	height:10%;
+	
+	border-radius:0.5em;
+	
+	background:green;
+	text-align: center;
+	
+}
+
+.section{
+	background: blue;
+	height:50%;
+	width:60%;
+	border-radius:0.5em;
+	margin:0.5em;
+	
+	
+}
+.aside{
+	background: gray;
+	height:50%;
+	width:20%;
+	border-radius:0.5em;
+	margin:0.5em;
+	
+}
+.footer{
+	
+	background: silver;
+	height:20%;
+	width:80%;
+	border-radius:0.5em;
+	margin:0.5em;
+	
+}
+
+
+
+
+
+
+
+
+
